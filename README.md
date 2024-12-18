@@ -16,8 +16,6 @@ This project was developed and tested on the following:
 
 ## Installation
 
-### Install Ollama
-
 To install Ollama, follow these steps:
 
 - Open a web browser and navigate to https://ollama.com/download

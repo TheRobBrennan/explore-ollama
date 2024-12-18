@@ -1,7 +1,5 @@
 # Explore Ollama
 
-## Ollama
-
 [Ollama](https://ollama.com) allows you to run Large Language Models (LLMs) locally on your machine, providing privacy and control over your AI interactions. This project serves as an example of how to integrate and work with [Ollama](https://ollama.com) in a locally hosted environment on macOS.
 
 This project was developed and tested on the following:

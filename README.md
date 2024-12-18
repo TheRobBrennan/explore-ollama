@@ -4,8 +4,6 @@
 
 [Ollama](https://ollama.com) allows you to run Large Language Models (LLMs) locally on your machine, providing privacy and control over your AI interactions. This project serves as an example of how to integrate and work with [Ollama](https://ollama.com) in a locally hosted environment on macOS.
 
-## System Requirements
-
 This project was developed and tested on the following:
 
 - 2021 14" MacBook Pro
@@ -18,13 +16,13 @@ This project was developed and tested on the following:
 
 ## Installation
 
-1. First, install Ollama by following the instructions at [ollama.com](https://ollama.com)
+### Install Ollama
 
-2. Clone this repository:   
- ```bash
-    # Clone the repository
-    git clone https://github.com/TheRobBrennan/explore-ollama.git
+To install Ollama, follow these steps:
 
-    # Navigate to the project directory
-    cd explore-ollama
- ```
+- Open a web browser and navigate to https://ollama.com/download
+- Download the appropriate version for your operating system (macOS, Linux, Windows)
+- On macOS, drag the downloaded file to the Applications folder
+- Launch Ollama from the Applications folder and follow the instructions to complete the installation
+
+Please see [Ollama](https://ollama.com/) for additional information.

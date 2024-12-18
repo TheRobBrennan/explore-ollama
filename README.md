@@ -33,13 +33,13 @@ ollama list
 
 This list will initially be empty. 🤓
 
-To download, install and run your first model:
+To download, install, and run your first model:
 
 ```bash
 ollama run llama3.3
 ```
 
-It will take a few minutes to download and install the model. This particular model is `42  GB` in size.
+It will take a few minutes to download and install the model. This particular model is `42GB` in size.
 
 Once your model has downloaded, the [Llama 3.3 70B](https://ollama.com/library/llama3.3) model will be started and you will be able to interact with it in the terminal:
 
